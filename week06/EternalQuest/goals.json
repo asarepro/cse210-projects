@@ -1,0 +1,10 @@
+{
+  "Goals": [
+    {
+      "Name": "church",
+      "Description": "Go to church",
+      "Points": 500
+    }
+  ],
+  "Score": 0
+}
